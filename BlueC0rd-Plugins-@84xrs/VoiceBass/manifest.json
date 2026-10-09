@@ -1,0 +1,7 @@
+{
+  "name": "Mic Bass Boost",
+  "description": "Boğuk ve ağır bass boost mikrofon efekti",
+  "author": "84xrs",
+  "version": "1.0.0",
+  "main": "index.js"
+}
